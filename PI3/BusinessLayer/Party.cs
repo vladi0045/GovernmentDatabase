@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BusinessLayer
 {
-    class Party
+    public class Party
     {
         [Key]
         public int Id { get; private set; }
@@ -22,10 +22,16 @@ namespace BusinessLayer
 
         public IEnumerable<Politician> Politicians { get; set; }
 
-        public Party(string name, string ideology, DateTime dateOfCreation)
+        private Party()
+        {
+
+        }
+
+        public Party(string name, string ideology,IEnumerable<Politician> politicians, DateTime dateOfCreation)
         {
             Name = name;
             Ideology = ideology;
+            Politicians = politicians;
             DateOfCreation = dateOfCreation;
         }
     }

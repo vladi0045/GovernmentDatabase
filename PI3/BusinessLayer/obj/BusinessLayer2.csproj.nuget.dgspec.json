@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rady\\GovernmentDatabase\\GovernmentDatabase-main\\PI3\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\GovernmentDatabase-main\\PI3\\BusinessLayer2\\BusinessLayer2.csproj": {}
   },
   "projects": {
-    "D:\\Rady\\GovernmentDatabase\\GovernmentDatabase-main\\PI3\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\GovernmentDatabase-main\\PI3\\BusinessLayer2\\BusinessLayer2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rady\\GovernmentDatabase\\GovernmentDatabase-main\\PI3\\BusinessLayer\\BusinessLayer.csproj",
-        "projectName": "BusinessLayer",
-        "projectPath": "D:\\Rady\\GovernmentDatabase\\GovernmentDatabase-main\\PI3\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\r_mir\\.nuget\\packages\\",
-        "outputPath": "D:\\Rady\\GovernmentDatabase\\GovernmentDatabase-main\\PI3\\BusinessLayer\\obj\\",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\GovernmentDatabase-main\\PI3\\BusinessLayer2\\BusinessLayer2.csproj",
+        "projectName": "BusinessLayer2",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\GovernmentDatabase-main\\PI3\\BusinessLayer2\\BusinessLayer2.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\GovernmentDatabase-main\\PI3\\BusinessLayer2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\r_mir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

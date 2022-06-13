@@ -7,19 +7,24 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BusinessLayer
 {
-    class Position
+    public class Position
     {
         [Key]
         public int Id { get; private set; }
 
         [Required, MaxLength(50)]
-        public string Post { get; set; }
+        public string PositionName { get; set; }
 
         public IEnumerable<Politician> Politicians { get; set; }
 
-        public Position(string post)
+        private Position()
         {
-            Post = post;
+
+        }
+
+        public Position(string positionName)
+        {
+            PositionName = positionName;
         }
     }
 }
