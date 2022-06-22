@@ -1,0 +1,325 @@
+﻿++Solution 'GovernmentDatabase' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:GovernmentDatabase.sln
+++DataLayer
+i:{00000000-0000-0000-0000-000000000000}:DataLayer
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\bin\debug\netcoreapp3.1\datalayer.dll
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\bin\debug\netcoreapp3.1\datalayer.dll
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\bin\debug\netcoreapp3.1\datalayer.dll
+++Dependencies
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:>756
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1063
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:>754
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:>755
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:>757
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1371
+++Migrations
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\
+++20220619134923_neshto.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619134923_neshto.cs
+++20220619145814_governmentDB.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619145814_governmentdb.cs
+++20220619145814_governmentDB.Designer.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619145814_governmentdb.designer.cs
+++20220619165900_governmentDB2.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619165900_governmentdb2.cs
+++20220619165900_governmentDB2.Designer.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619165900_governmentdb2.designer.cs
+++GovernmentDbContextModelSnapshot.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\governmentdbcontextmodelsnapshot.cs
+++GovernmentDbContext.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\governmentdbcontext.cs
+++IDB.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\idb.cs
+++IDBFiltration.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\idbfiltration.cs
+++PartyContext.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\partycontext.cs
+++PoliticianContext.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\politiciancontext.cs
+++PositionContext.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\positioncontext.cs
+++Analyzers
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:analyzers
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:analyzers
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:analyzers
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:analyzers
+++Frameworks
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:frameworks
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:frameworks
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:frameworks
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:frameworks
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:frameworks
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:frameworks
+++Packages
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:packages
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:packages
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:packages
+++Projects
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:projects
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:projects
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:projects
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:projects
+++20220619134923_neshto.Designer.cs
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\migrations\20220619134923_neshto.designer.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\datalayer\microsoft.netcore.app
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\testinglayer\microsoft.netcore.app
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\servicelayer\microsoft.netcore.app
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\microsoft.netcore.app
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\microsoft.netcore.app
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:>1377
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:>1378
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1429
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:>1379
+++BusinessLayer
+i:{66d4e2e9-3df3-47b8-a581-d797f72c49e5}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\bin\debug\netcoreapp3.1\businesslayer.dll
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\bin\debug\netcoreapp3.1\businesslayer.dll
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\bin\debug\netcoreapp3.1\businesslayer.dll
+i:{00000000-0000-0000-0000-000000000000}:BusinessLayer
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\bin\debug\netcoreapp3.1\businesslayer.dll
+++TestingLayer
+i:{00000000-0000-0000-0000-000000000000}:TestingLayer
+++PartyContextUnitTest.cs
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\testinglayer\partycontextunittest.cs
+++PoliticianContextUnitTest.cs
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\testinglayer\politiciancontextunittest.cs
+++PositionContextUnitTest.cs
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\testinglayer\positioncontextunittest.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++coverlet.collector (3.0.2)
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1412
+++Microsoft.EntityFrameworkCore.InMemory (5.0.17)
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1411
+++Microsoft.NET.Test.Sdk (16.9.4)
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1408
+++NUnit (3.13.1)
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1409
+++NUnit3TestAdapter (3.17.0)
+i:{b558b48d-a143-40b9-a902-e93fd5d2ebe0}:>1410
+++ServiceLayer
+i:{00000000-0000-0000-0000-000000000000}:ServiceLayer
+++DBContextManager.cs
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\servicelayer\dbcontextmanager.cs
+++DBManager.cs
+i:{af11f4a1-bccf-4cd4-aef8-4dccabd1e878}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\servicelayer\dbmanager.cs
+++Presentation Layer
+i:{00000000-0000-0000-0000-000000000000}:Presentation Layer
+++MainForm.cs
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\mainform.cs
+++PositionsForm.cs
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\positionsform.cs
+++PositionsForm.Designer.cs
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\positionsform.designer.cs
+++PositionsForm.resx
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\positionsform.resx
+++Program.cs
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\program.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\program.cs
+++MainForm.Designer.cs
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\mainform.designer.cs
+++MainForm.resx
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\mainform.resx
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{4c8c24d5-e6f4-4daa-aeb8-1a922b5be306}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentation layer\microsoft.windowsdesktop.app.windowsforms
+++Party.cs
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\party.cs
+++Politician.cs
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\politician.cs
+++Position.cs
+i:{24cde68c-e45f-4afc-9e30-7b2045a0ba67}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\businesslayer\position.cs
+++PresentationLayer
+i:{00000000-0000-0000-0000-000000000000}:PresentationLayer
+++Connected Services 
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1372
+++Properties
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\properties\
+++wwwroot
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\
+++Controllers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\controllers\
+++Models
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\models\
+++Views
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\
+++appsettings.json
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\appsettings.json
+++Startup.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\startup.cs
+++No service dependencies discovered
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1373
+++launchSettings.json
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\properties\launchsettings.json
+++css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\css\
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\js\
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\
+++favicon.ico
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\favicon.ico
+++HomeController.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\controllers\homecontroller.cs
+++PartyController.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\controllers\partycontroller.cs
+++PoliticianController.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\controllers\politiciancontroller.cs
+++PositionController.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\controllers\positioncontroller.cs
+++ErrorViewModel.cs
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\models\errorviewmodel.cs
+++Home
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\home\
+++Party
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\
+++Position
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\
+++Shared
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\shared\
+++_ViewImports.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (5.0.17)
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1430
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:>1431
+++site.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\css\site.css
+++site.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\js\site.js
+++bootstrap
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\
+++jquery
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\
+++jquery-validation
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\home\index.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\index.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\index.cshtml
+++Privacy.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\home\privacy.cshtml
+++Create.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\create.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\create.cshtml
+++Delete.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\delete.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\delete.cshtml
+++Details.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\details.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\details.cshtml
+++Edit.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\party\edit.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\position\edit.cshtml
+++_Layout.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\views\shared\error.cshtml
+++dist
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\dist\
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\license.txt
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{de0db178-a14f-4bbe-850a-0de39dd8e529}:c:\users\ivan_\onedrive\работен плот\governmentdatabase-development\governmentdatabase\presentationlayer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

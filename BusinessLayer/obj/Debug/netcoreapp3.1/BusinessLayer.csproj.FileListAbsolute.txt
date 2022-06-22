@@ -1,0 +1,20 @@
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
