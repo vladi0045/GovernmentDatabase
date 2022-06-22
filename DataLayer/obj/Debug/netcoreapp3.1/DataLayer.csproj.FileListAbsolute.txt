@@ -1,0 +1,32 @@
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Documents\GovernmentDatabase-development\PI3\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\GovernmentDatabase-development\GovernmentDatabase\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
